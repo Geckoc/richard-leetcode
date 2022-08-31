@@ -10,6 +10,8 @@ public class Main {
 
     public static void main(String[] args) {
         BinarySearchModel1 binarySearchModel1 = new BinarySearchModel1();
-        System.out.println(binarySearchModel1.mySqrt(8));
+        int[] nums = {1};
+        int search = binarySearchModel1.search(nums, 1);
+        System.out.println(search);
     }
 }
