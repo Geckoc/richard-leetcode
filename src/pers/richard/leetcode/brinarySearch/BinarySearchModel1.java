@@ -1,13 +1,9 @@
-package com.richard.leetcode.brinarySearch;
+package pers.richard.leetcode.brinarySearch;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @ClassName: BinarySearchModel1
  * @Description: 二分查找 LeetCode - LeetBook
- *  model #1 是二分查找的最基础和最基本的形式。这是一个标准的二分查找模板。
  *  关键属性
  *      二分查找的最基础和最基本的形式。
  *      查找条件可以在不与元素的两侧进行比较的情况下确定（或使用它周围的特定元素）。
@@ -23,6 +19,29 @@ import java.util.Map;
  * @Create: 2022-08-31 10:11
  */
 public class BinarySearchModel1 {
+    /**
+     * model #1 是二分查找的最基础和最基本的形式。
+     * 这是一个标准的二分查找模板。
+     * @param nums   数组
+     * @param target 目标
+     * @return 下标
+     */
+    int binarySearch(int[] nums, int target){
+        if(nums == null || nums.length == 0)
+            return -1;
+
+        int left = 0, right = nums.length - 1;
+        while(left <= right){
+            // Prevent (left + right) overflow
+            int mid = left + (right - left) / 2;
+            if(nums[mid] == target){ return mid; }
+            else if(nums[mid] < target) { left = mid + 1; }
+            else { right = mid - 1; }
+        }
+
+        // End Condition: left > right
+        return -1;
+    }
 
     /**
      * 题目：x 的平方根
@@ -141,6 +160,12 @@ public class BinarySearchModel1 {
     }
 
 
+    /**
+     * 搜索旋转排序数组 简单循环实现
+     * @param nums   数组
+     * @param target 目标
+     * @return target的下标
+     */
     public int searchFori(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == target) return i;
