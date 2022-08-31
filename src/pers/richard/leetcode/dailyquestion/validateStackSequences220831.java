@@ -1,5 +1,8 @@
 package pers.richard.leetcode.dailyquestion;
 
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 /**
  * @ClassName: validateStackSequences220831
  * @Description: 验证栈序列
@@ -30,4 +33,47 @@ package pers.richard.leetcode.dailyquestion;
  * @Create: 2022-08-31 16:22
  */
 public class validateStackSequences220831 {
+
+    /**
+     * 出入栈模拟
+     * Stack.peek();
+     * peek()方法用于从此Stack中返回顶部元素，并且它不删除就检索元素。
+     *
+     * peek()方法是一种非静态方法，只能通过类对象访问，如果尝试使用类名访问该方法，则会收到错误消息。
+     *
+     * peek()方法在返回top元素时不会引发异常。
+     *
+     * 语法：public Object peek();
+     *
+     * 参数：它不接受任何参数。
+     *
+     * 返回值：该方法的返回类型为Object，它从堆栈中返回head元素。
+     *
+     * @param pushed 入栈队列
+     * @param popped 出栈队列
+     * @return true/false 正常出入栈
+     */
+    public boolean validateStackSequences(int[] pushed, int[] popped) {
+        Deque<Integer> stack = new ArrayDeque<>();
+        int n = pushed.length;
+        for (int i = 0, j = 0; i < n; i++) {
+            stack.push(pushed[i]);
+            while (!stack.isEmpty() && stack.peek() == popped[j]){
+                stack.pop();
+                j++;
+            }
+        }
+        return stack.isEmpty();
+    }
+
+    public boolean validateStackSequences2(int[] pushed, int[] popped) {
+        Deque<Integer> d = new ArrayDeque<>();
+        for (int i = 0, j = 0; i < pushed.length; i++) {
+            d.addLast(pushed[i]);
+            while (!d.isEmpty() && d.peekLast() == popped[j] && ++j >= 0){
+                d.pollLast();
+            }
+        }
+        return d.isEmpty();
+    }
 }
