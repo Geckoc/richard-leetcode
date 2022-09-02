@@ -75,4 +75,34 @@ public class FinalPrices220901 {
         }
         return ans;
     }
+
+    /**
+     * 官方单调栈
+     * 当遍历第 i 个元素 prices[i] 时：
+     *
+     * 如果当前栈顶的元素大于 prices[i]，则将栈顶元素出栈，直到栈顶的元素小于等于 prices[i]
+     * 栈顶的元素即为右边第一个小于 prices[i] 的元素；
+     *
+     * 如果当前栈顶的元素小于等于 prices[i]，此时可以知道当前栈顶元素即为 i 的右边第一个小于等于 prices[i] 的元素
+     * 此时第 i 个物品折后的价格为 prices[i] 与栈顶的元素的差。
+     *
+     * 如果当前栈中的元素为空，则此时折扣为 00，商品的价格为原价 prices[i]；
+     *
+     * 将 prices[i] 压入栈中，保证 prices[i] 为当前栈中的最大值；
+     * @param prices 价格数组
+     * @return 最终价格数组
+     */
+    public int[] finalPricesB(int[] prices) {
+        int n = prices.length;
+        int[] ans = new int[n];
+        Deque<Integer> stack = new ArrayDeque<>();
+        for (int i = n - 1; i >= 0; i--) {
+            while (!stack.isEmpty() && stack.peek() > prices[i]) {
+                stack.pop();
+            }
+            ans[i] = stack.isEmpty() ? prices[i] : prices[i] - stack.peek();
+            stack.push(prices[i]);
+        }
+        return ans;
+    }
 }
