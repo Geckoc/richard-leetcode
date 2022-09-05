@@ -1,4 +1,4 @@
-package pers.richard.leetcode.dailyquestion;
+package pers.richard.leetcode.dailyquestion.aug22;
 
 import java.util.Arrays;
 import java.util.HashMap;
