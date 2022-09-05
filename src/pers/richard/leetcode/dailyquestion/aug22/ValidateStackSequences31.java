@@ -32,7 +32,7 @@ import java.util.Deque;
  * @Author: Richard_Chen
  * @Create: 2022-08-31 16:22
  */
-public class ValidateStackSequences220831 {
+public class ValidateStackSequences31 {
 
     /**
      * 出入栈模拟
