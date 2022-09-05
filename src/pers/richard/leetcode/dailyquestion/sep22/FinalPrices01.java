@@ -39,7 +39,7 @@ import java.util.Deque;
  * @Author: Richard_Chen
  * @Create: 2022-09-01 11:57
  */
-public class FinalPrices220901 {
+public class FinalPrices01 {
 
     /**
      * 暴力双循环
