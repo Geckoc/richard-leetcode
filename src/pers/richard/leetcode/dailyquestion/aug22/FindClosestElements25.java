@@ -32,7 +32,7 @@ import java.util.List;
  * @Author: Richard_Chen
  * @Create: 2022-08-25 14:55
  */
-public class FindClosestElements220825 {
+public class FindClosestElements25 {
 
     /**
      * 排序
