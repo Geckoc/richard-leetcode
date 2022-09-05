@@ -40,7 +40,7 @@ import java.util.Map;
  * @Author: Richard_Chen
  * @Create: 2022-08-24 14:38
  */
-public class CanBeEqual220824 {
+public class CanBeEqual24 {
 
 
     public boolean canBeEqual1(int[] target, int[] arr) {
