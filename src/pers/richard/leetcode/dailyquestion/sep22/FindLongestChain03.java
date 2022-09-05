@@ -21,7 +21,7 @@ import java.util.Arrays;
  * @Author: Richard_Chen
  * @Create: 2022-09-03 16:49
  */
-public class FindLongestChain220903 {
+public class FindLongestChain03 {
 
     public int findLongestChain(int[][] pairs) {
         int curr = Integer.MIN_VALUE, res = 0;
