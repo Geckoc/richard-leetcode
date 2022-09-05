@@ -32,7 +32,7 @@ package pers.richard.leetcode.dailyquestion.sep22;
  * @Author: Richard_Chen
  * @Create: 2022-09-02 10:37
  */
-public class LongestUnivaluePath220902 {
+public class LongestUnivaluePath02 {
 
     /**
      * Definition for a binary tree node.
