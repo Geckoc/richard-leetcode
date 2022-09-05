@@ -27,7 +27,7 @@ import java.util.Arrays;
  * @Author: Richard_Chen
  * @Create: 2022-08-26 15:03
  */
-public class MaxProduct220826 {
+public class MaxProduct26 {
 
     /**
      * 一次循环，求最大值、次最大值
