@@ -1,3 +1,4 @@
+import pers.richard.leetcode.dailyquestion.sep22.ReorderSpaces07;
 import pers.richard.leetcode.learn.IsPalindrome;
 
 /**
@@ -9,7 +10,7 @@ import pers.richard.leetcode.learn.IsPalindrome;
 public class Main {
 
     public static void main(String[] args) {
-        IsPalindrome isPalindrome = new IsPalindrome();
-        System.out.println(isPalindrome.isPalindromeA(12321));
+        ReorderSpaces07 reorderSpaces07 = new ReorderSpaces07();
+        String s = reorderSpaces07.reorderSpaces("hello wo   ok p     w    ");
     }
 }
