@@ -52,7 +52,6 @@ public class ReorderSpaces07 {
         int perSpace = length / (words.length -1);
         // 取余，未能平均分配的空格数
         int restSpace = length % (words.length -1);
-        
         for (int i = 0; i < perSpace; i++) {
             if (i > 0){
                 for (int j = 0; j < perSpace; j++) {
