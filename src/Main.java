@@ -1,5 +1,4 @@
-import pers.richard.leetcode.dailyquestion.sep22.ReorderSpaces07;
-import pers.richard.leetcode.learn.IsPalindrome;
+import pers.richard.leetcode.dailyquestion.sep22.TrimMean14;
 
 /**
  * @ClassName: Main
@@ -10,7 +9,9 @@ import pers.richard.leetcode.learn.IsPalindrome;
 public class Main {
 
     public static void main(String[] args) {
-        ReorderSpaces07 reorderSpaces07 = new ReorderSpaces07();
-        String s = reorderSpaces07.reorderSpaces("hello wo   ok p     w    ");
+        int[] arr = {6,0,7,0,7,5,7,8,3,4,0,7,8,1,6,8,1,1,2,4,8,1,9,5,4,3,8,5,10,8,6,6,1,0,6,10,8,2,3,4};
+        TrimMean14 trimMean14 = new TrimMean14();
+        double v = trimMean14.trimMean(arr);
+        System.out.println(v);
     }
 }
