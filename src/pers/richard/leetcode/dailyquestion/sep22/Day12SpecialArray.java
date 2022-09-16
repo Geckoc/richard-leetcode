@@ -40,7 +40,7 @@ import java.util.Arrays;
  * @Author: Richard_Chen
  * @Create: 2022-09-13 14:57
  */
-public class SpecialArray12 {
+public class Day12SpecialArray {
     /**
      * 降序 + 一次遍历
      * @param nums
