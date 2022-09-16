@@ -3,7 +3,7 @@ package pers.richard.leetcode.dailyquestion.sep22;
 import java.util.Arrays;
 
 /**
- * @ClassName: ReorderSpaces07
+ * @ClassName: Day07ReorderSpaces
  * @Description: 重新排列单词中的空格
  * 给你一个字符串 text ，该字符串由若干被空格包围的单词组成。
  * 每个单词由一个或者多个小写英文字母组成，并且两个单词之间至少存在一个空格。题目测试用例保证 text 至少包含一个单词 。
@@ -28,7 +28,7 @@ import java.util.Arrays;
  * @Author: Richard_Chen
  * @Create: 2022-09-07 10:13
  */
-public class ReorderSpaces07 {
+public class Day07ReorderSpaces {
 
     public String reorderSpaces(String text) {
         int length = text.length();
