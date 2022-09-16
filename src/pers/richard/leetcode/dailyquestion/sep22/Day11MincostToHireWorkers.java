@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 
 /**
- * @ClassName: MincostToHireWorkers11
+ * @ClassName: Day11MincostToHireWorkers
  * @Description: 雇佣 K 名工人的最低成本
  * 有 n 名工人。 给定两个数组 quality 和 wage ；
  * 其中，quality[i] 表示第 i 名工人的工作质量，其最低期望工资为 wage[i] 。
@@ -32,7 +32,7 @@ import java.util.PriorityQueue;
  * @Author: Richard_Chen
  * @Create: 2022-09-13 14:53
  */
-public class MincostToHireWorkers11 {
+public class Day11MincostToHireWorkers {
 
     public double mincostToHireWorkers(int[] quality, int[] wage, int k) {
         int n = quality.length;
