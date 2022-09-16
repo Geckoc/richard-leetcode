@@ -1,7 +1,7 @@
 package pers.richard.leetcode.dailyquestion.sep22;
 
 /**
- * @ClassName: LongestUnivaluePath220902
+ * @ClassName: Day02LongestUnivaluePath
  * @Description: 最长同值路径
  * 给定一个二叉树的root，返回最长的路径的长度 ，这个路径中的每个节点具有相同值。
  * 这条路径可以经过也可以不经过根节点。
@@ -32,7 +32,7 @@ package pers.richard.leetcode.dailyquestion.sep22;
  * @Author: Richard_Chen
  * @Create: 2022-09-02 10:37
  */
-public class LongestUnivaluePath02 {
+public class Day02LongestUnivaluePath {
 
     /**
      * Definition for a binary tree node.
