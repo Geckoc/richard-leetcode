@@ -1,7 +1,7 @@
 package pers.richard.leetcode.dailyquestion.sep22;
 
 /**
- * @ClassName: RectangleArea16
+ * @ClassName: Day16RectangleArea
  * @Description: 矩形面积II
  * 我们给出了一个（轴对齐的）二维矩形列表 rectangles 。
  * 对于 rectangle[i] = [x1, y1, x2, y2]，其中（x1，y1）是矩形 i 左下角的坐标， (xi1, yi1) 是该矩形 左下角 的坐标， (xi2, yi2) 是该矩形 右上角 的坐标。
