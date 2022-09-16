@@ -1,7 +1,7 @@
 package pers.richard.leetcode.dailyquestion.sep22;
 
 /**
- * @ClassName: MaximumSwap13
+ * @ClassName: Day13MaximumSwap
  * @Description: 最大交换
  * 给定一个非负整数，你至多可以交换一次数字中的任意两位。
  * 返回你能得到的最大值。
@@ -21,7 +21,7 @@ package pers.richard.leetcode.dailyquestion.sep22;
  * @Author: Richard_Chen
  * @Create: 2022-09-13 15:09
  */
-public class MaximumSwap13 {
+public class Day13MaximumSwap {
 
 
     public int maximumSwap(int num) {
