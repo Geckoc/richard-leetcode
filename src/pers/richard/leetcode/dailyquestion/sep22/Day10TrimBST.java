@@ -1,7 +1,7 @@
 package pers.richard.leetcode.dailyquestion.sep22;
 
 /**
- * @ClassName: TrimBST10
+ * @ClassName: Day10TrimBST
  * @Description: 修剪二叉搜索树
  * 给你二叉搜索树的根节点 root ，同时给定最小边界low 和最大边界 high。通过修剪二叉搜索树，使得所有节点的值在[low, high]中。
  * 修剪树 不应该改变保留在树中的元素的相对结构 (即，如果没有被移除，原有的父代子代关系都应当保留)。 可以证明，存在 唯一的答案。
@@ -42,7 +42,7 @@ package pers.richard.leetcode.dailyquestion.sep22;
  * @Author: Richard_Chen
  * @Create: 2022-09-13 14:41
  */
-public class TrimBST10 {
+public class Day10TrimBST {
 
      public class TreeNode {
          int val;
