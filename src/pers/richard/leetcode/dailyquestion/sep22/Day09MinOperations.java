@@ -1,7 +1,7 @@
 package pers.richard.leetcode.dailyquestion.sep22;
 
 /**
- * @ClassName: MinOperations09
+ * @ClassName: Day09MinOperations
  * @Description: 文件夹操作日志搜集器
  * 每当用户执行变更文件夹操作时，LeetCode 文件系统都会保存一条日志记录。
  *
@@ -21,7 +21,7 @@ package pers.richard.leetcode.dailyquestion.sep22;
  * @Author: Richard_Chen
  * @Create: 2022-09-13 14:32
  */
-public class MinOperations09 {
+public class Day09MinOperations {
 
     /**
      * 方法一：直接模拟
