@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @ClassName: UniqueLetterString06
+ * @ClassName: Day06UniqueLetterString
  * @Description: 统计子串中的唯一字符
  * 我们定义了一个函数 countUniqueChars(s) 来统计字符串 s 中的唯一字符，并返回唯一字符的个数。
  * 例如：s = "LEETCODE" ，则其中 "L", "T","C","O","D" 都是唯一字符，因为它们只出现一次，所以 countUniqueChars(s) = 5 。
@@ -36,7 +36,7 @@ import java.util.Map;
  * @Author: Richard_Chen
  * @Create: 2022-09-06 17:33
  */
-public class UniqueLetterString06 {
+public class Day06UniqueLetterString {
 
     public int uniqueLetterString(String s) {
         Map<Character, List<Integer>> index = new HashMap<Character, List<Integer>>();
