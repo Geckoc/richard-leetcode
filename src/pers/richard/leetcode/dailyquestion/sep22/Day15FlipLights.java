@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @ClassName: FlipLights15
+ * @ClassName: Day15FlipLights
  * @Description: 灯泡开关 II
  * 房间中有 n 只已经打开的灯泡，编号从 1 到 n 。墙上挂着 4 个开关 。
  *
@@ -54,7 +54,7 @@ import java.util.Set;
  * @Author: Richard_Chen
  * @Create: 2022-09-15 18:15
  */
-public class FlipLights15 {
+public class Day15FlipLights {
     public int flipLights(int n, int presses) {
         Set<Integer> seen = new HashSet<>();
         for (int i = 0; i < 1 << 4; i++) {
