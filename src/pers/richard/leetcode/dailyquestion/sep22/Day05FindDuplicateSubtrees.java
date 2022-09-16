@@ -5,7 +5,7 @@ import javafx.util.Pair;
 import java.util.*;
 
 /**
- * @ClassName: FindDuplicateSubtrees05
+ * @ClassName: Day05FindDuplicateSubtrees
  * @Description: 寻找重复的子树
  * 给定一棵二叉树 root，返回所有重复的子树。
  *
@@ -16,7 +16,7 @@ import java.util.*;
  * @Author: Richard_Chen
  * @Create: 2022-09-05 18:25
  */
-public class FindDuplicateSubtrees05 {
+public class Day05FindDuplicateSubtrees {
 
 
     public class TreeNode {
