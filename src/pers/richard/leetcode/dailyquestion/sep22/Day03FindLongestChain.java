@@ -3,7 +3,7 @@ package pers.richard.leetcode.dailyquestion.sep22;
 import java.util.Arrays;
 
 /**
- * @ClassName: FindLongestChain
+ * @ClassName: Day03FindLongestChain
  * @Description: 最长对数链
  * 给出 n 个数对。 在每一个数对中，第一个数字总是比第二个数字小。
  * 现在，我们定义一种跟随关系，当且仅当 b < c 时，数对(c, d) 才可以跟在 (a, b) 后面。我们用这种形式来构造一个数对链。
@@ -21,7 +21,7 @@ import java.util.Arrays;
  * @Author: Richard_Chen
  * @Create: 2022-09-03 16:49
  */
-public class FindLongestChain03 {
+public class Day03FindLongestChain {
 
     public int findLongestChain(int[][] pairs) {
         int curr = Integer.MIN_VALUE, res = 0;
