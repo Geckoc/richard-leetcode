@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * @ClassName: FinalPrices
+ * @ClassName: Day01FinalPrices
  * @Description: 商品折扣后的最终价格
  * 给你一个数组 prices ，其中 prices[i] 是商店里第 i 件商品的价格。
  * 商店里正在进行促销活动，如果你要买第 i 件商品，那么你可以得到与 prices[j] 相等的折扣
@@ -39,7 +39,7 @@ import java.util.Deque;
  * @Author: Richard_Chen
  * @Create: 2022-09-01 11:57
  */
-public class FinalPrices01 {
+public class Day01FinalPrices {
 
     /**
      * 暴力双循环
