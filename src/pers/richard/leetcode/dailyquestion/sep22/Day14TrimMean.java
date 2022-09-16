@@ -3,7 +3,7 @@ package pers.richard.leetcode.dailyquestion.sep22;
 import java.util.Arrays;
 
 /**
- * @ClassName: TrimMean14
+ * @ClassName: Day14TrimMean
  * @Description: 删除某些元素后的数组均值
  *  给你一个整数数组 arr ，请你删除最小5%的数字和最大5%的数字后，剩余数字的平均值。
  *  与标准答案 误差在 10-5 的结果都被视为正确结果。
@@ -38,7 +38,7 @@ import java.util.Arrays;
  * @Author: Richard_Chen
  * @Create: 2022-09-14 16:01
  */
-public class TrimMean14 {
+public class Day14TrimMean {
 
     public double trimMean(int[] arr){
         // 排序
