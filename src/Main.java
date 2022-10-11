@@ -1,4 +1,4 @@
-import pers.richard.leetcode.dailyquestion.sep22.Day14TrimMean;
+import pers.richard.leetcode.dailyquestion.oct22.Day11AreAlmostEqual;
 
 /**
  * @ClassName: Main
@@ -9,9 +9,9 @@ import pers.richard.leetcode.dailyquestion.sep22.Day14TrimMean;
 public class Main {
 
     public static void main(String[] args) {
-        int[] arr = {6,0,7,0,7,5,7,8,3,4,0,7,8,1,6,8,1,1,2,4,8,1,9,5,4,3,8,5,10,8,6,6,1,0,6,10,8,2,3,4};
-        Day14TrimMean trimMean14 = new Day14TrimMean();
-        double v = trimMean14.trimMean(arr);
-        System.out.println(v);
+        Day11AreAlmostEqual day11AreAlmostEqual = new Day11AreAlmostEqual();
+        String s1 = "siyolsdcjthwsiplccjbuceoxmpjgrauocx";
+        String s2 = "siyolsdcjthwsiplccpbuceoxmjjgrauocx";
+        System.out.println(day11AreAlmostEqual.areAlmostEqual(s1, s2));
     }
 }
