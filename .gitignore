@@ -34,19 +34,5 @@ target/
 .springBeans
 
 ### IntelliJ IDEA ###
-.idea
 *.iws
-*.iml
 *.ipr
-
-### NetBeans ###
-nbproject/private/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
-api/logs
-*.log
-*.lck
-.idea/
-out/

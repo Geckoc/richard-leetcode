@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a6aee88-63b5-4b58-a4d8-e4b0faf61c85" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="669">
+                <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="14" column="71" lean-forward="true" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/oct22/Day11AreAlmostEqual.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/FindLongestChain.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/FindLongestChain220903.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/FindDuplicateSubtrees220905.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/aug22/MaxProduct26.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/aug22/ValidateStackSequences31.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/FinalPrices01.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/FindLongestChain03.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/FindDuplicateSubtrees05.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/UniqueLetterString06.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/ConstructArray08.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/ReorderSpaces07.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/NumSpecial04.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/MinOperations09.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/TrimBST10.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/MincostToHireWorkers11.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/SpecialArray12.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/MaximumSwap13.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/TrimMean14.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/FlipLights15.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/RectangleArea16.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day01FinalPrices.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day02LongestUnivaluePath.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day03FindLongestChain.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day04NumSpecial.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day05FindDuplicateSubtrees.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day06UniqueLetterString.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day07ReorderSpaces.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day08ConstructArray.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day09MinOperations.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day10TrimBST.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day11MincostToHireWorkers.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day12SpecialArray.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day13MaximumSwap.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day14TrimMean.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day15FlipLights.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day16RectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day17MaxLengthBetweenEqualCharacters.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day19FrequencySort.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day20CanPartitionKSubsets.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day21kSimilarity.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day22CanFormArray.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day23MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day25Decrypt.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day25RotatedDigits.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day26MissingTwo.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day27CheckPermutation.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day28GetKthMagicNumber.java" />
+        <option value="$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/oct22/Day11AreAlmostEqual.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="66" />
+    <option name="y" value="-8" />
+    <option name="width" value="939" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="richard-leetcode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="richard-leetcode" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="richard-leetcode" type="616d4139:PackageViewModuleNode" />
+              <item name="pers" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="richard-leetcode" type="616d4139:PackageViewModuleNode" />
+              <item name="pers" type="1f31426a:PackageElementNode" />
+              <item name="richard" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="richard-leetcode" type="616d4139:PackageViewModuleNode" />
+              <item name="pers" type="1f31426a:PackageElementNode" />
+              <item name="richard" type="1f31426a:PackageElementNode" />
+              <item name="leetcode" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="richard-leetcode" type="616d4139:PackageViewModuleNode" />
+              <item name="pers" type="1f31426a:PackageElementNode" />
+              <item name="richard" type="1f31426a:PackageElementNode" />
+              <item name="leetcode" type="1f31426a:PackageElementNode" />
+              <item name="learn" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="richard-leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="richard-leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="richard-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="richard-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="richard-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="richard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="richard-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="richard" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="richard-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="richard" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="dailyquestion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="richard-leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1665458264358" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.39764938" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="richard-leetcode" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6aee88-63b5-4b58-a4d8-e4b0faf61c85" name="Default Changelist" comment="" />
+      <created>1661911858255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661911858255</updated>
+      <workItem from="1661911860925" duration="20485000" />
+      <workItem from="1661997140619" duration="10535000" />
+      <workItem from="1662081145180" duration="6931000" />
+      <workItem from="1662194929217" duration="1632000" />
+      <workItem from="1662339779273" duration="13000" />
+      <workItem from="1662372591488" duration="1709000" />
+      <workItem from="1662456778818" duration="1067000" />
+      <workItem from="1662516755112" duration="3774000" />
+      <workItem from="1662631578440" duration="1437000" />
+      <workItem from="1663048643734" duration="3679000" />
+      <workItem from="1663142449149" duration="2242000" />
+      <workItem from="1663236858200" duration="1050000" />
+      <workItem from="1663291004634" duration="4697000" />
+      <workItem from="1663668527577" duration="369000" />
+      <workItem from="1663722407752" duration="602000" />
+      <workItem from="1664453406122" duration="1544000" />
+      <workItem from="1664500029780" duration="2964000" />
+      <workItem from="1664530409017" duration="30000" />
+      <workItem from="1665192818339" duration="51000" />
+      <workItem from="1665308828068" duration="1179000" />
+      <workItem from="1665364912556" duration="1591000" />
+      <workItem from="1665394635436" duration="2678000" />
+      <workItem from="1665451931029" duration="5937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76196000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="-8" width="1862" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840763" visible="true" weight="0.31798002" />
+      <window_info id="Structure" order="1" sideWeight="0.50159234" side_tool="true" weight="0.24972253" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30662394" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36858973" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.732906" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/Richard.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/brinarySearch/BinarySearchModel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3024">
+          <caret line="163" column="15" selection-start-line="163" selection-start-column="7" selection-end-line="163" selection-end-column="15" />
+          <folding>
+            <element signature="method#mySqrt#0;class#BinarySearchModel1#0" />
+            <element signature="method#guessNumber#0;class#BinarySearchModel1#0" />
+            <element signature="method#search#0;class#BinarySearchModel1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4899" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/brinarySearch/BinarySearchModel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2576">
+          <caret line="92" column="30" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/FindDuplicateSubtrees220905.java" />
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/learn/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2912">
+          <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/aug22/CanBeEqual24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/aug22/FindClosestElements25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/aug22/ValidateStackSequences31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/aug22/MaxProduct26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day01FinalPrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day02LongestUnivaluePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day03FindLongestChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day04NumSpecial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day05FindDuplicateSubtrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day06UniqueLetterString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day07ReorderSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day08ConstructArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day09MinOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day10TrimBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day11MincostToHireWorkers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day12SpecialArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1372">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day13MaximumSwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day14TrimMean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day15FlipLights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day16RectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="method#rectangleArea#0;class#Day16RectangleArea#0" />
+            <element signature="method#init#0;class#Day16RectangleArea#0" />
+            <element signature="method#update#0;class#Day16RectangleArea#0" />
+            <element signature="method#pushup#0;class#Day16RectangleArea#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day17MaxLengthBetweenEqualCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day20CanPartitionKSubsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day19FrequencySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day21kSimilarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day22CanFormArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="46" column="37" lean-forward="true" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day23MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day25RotatedDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1372">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day24Decrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day26MissingTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day27CheckPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/sep22/Day28GetKthMagicNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="71" lean-forward="true" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pers/richard/leetcode/dailyquestion/oct22/Day11AreAlmostEqual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="669">
+            <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39764938" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39764938" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39764938" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39764938" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>richard-leetcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39764938" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39764938" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
